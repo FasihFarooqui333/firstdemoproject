@@ -23,8 +23,8 @@ Hobies
 - [ ] graduation
 
 candle blows on `12-Nov,2000`
-``` [google](www.google.com]```
-
+ [google](www.google.com]
+```git add .```
 > hurt me once shame on you, you hurt me twice shame on me 
 
 this is my first demo project
