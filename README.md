@@ -1,10 +1,12 @@
 # firstdemoproject
+
 # 1st 
 ## 2nd
 ### 3rd
 #### 4th
 ##### 5th
 ###### 6th
+
 **Fasih**  __Farooqui__ 
 _muslim_ and *Pakistani*
 
@@ -17,7 +19,7 @@ Hobies
    2. God Of War
 
 - [x] matric
-- [x[ intermediate
+- [x] intermediate
 - [ ] graduation
 
 candle blows on `12-Nov,2000`
