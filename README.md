@@ -1,12 +1,10 @@
 # firstdemoproject
-
 # 1st 
 ## 2nd
 ### 3rd
 #### 4th
 ##### 5th
 ###### 6th
-
 **Fasih**  __Farooqui__ 
 _muslim_ and *Pakistani*
 
